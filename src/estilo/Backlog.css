@@ -1,0 +1,8 @@
+.contenedor-historia{
+    width: 1070px;
+    height: 200px;
+    margin: 10px 10px 110px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(214, 193, 166);
+}

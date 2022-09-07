@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+    font-size: 18px;
+    background-color: whitesmoke;
+}
+
+h1 {
+    max-width: 940px;
+    font-size: 2.5em;
+    margin: 40px 0;
+    
+}
+
+.App {
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+}
+
+/*.contenedor-principal{
+    min-height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    
+
+}*/
+
+.contenedor-principal{
+    min-height: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+.id-historia{
+    font-size: 1.3rem;
+}
+
+.alias-historia{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.enunciado-hitoria{
+    font-size: 1.1rem;
+}
